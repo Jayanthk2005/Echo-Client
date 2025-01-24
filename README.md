@@ -27,3 +27,17 @@ Server:
 Client:
   Connects to the server and sends messages.
   Receives and displays echoed messages from the server.
+
+                                       SERVER SIDE
+
+![image alt](https://github.com/Jayanthk2005/Echo-Client/blob/f91d42e1b77c93777a2fb598b9a404f565ff9c8b/screenshot/Screenshot%202025-01-24%20194744.png)
+
+                                      CLIENT SIDE
+                                      
+![image alt](https://github.com/Jayanthk2005/Echo-Client/blob/f91d42e1b77c93777a2fb598b9a404f565ff9c8b/screenshot/Screenshot%202025-01-24%20194757.png)
+
+
+![image alt](https://github.com/Jayanthk2005/Echo-Client/blob/f91d42e1b77c93777a2fb598b9a404f565ff9c8b/screenshot/Screenshot%202025-01-24%20194936.png)
+
+
+![image alt](https://github.com/Jayanthk2005/Echo-Client/blob/f91d42e1b77c93777a2fb598b9a404f565ff9c8b/screenshot/Screenshot%202025-01-24%20194947.png)
